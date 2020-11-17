@@ -1,0 +1,4 @@
+1. python :    install python
+          
+2. pytube :     pip install pytube
+
