@@ -41,7 +41,7 @@ d_stream = yt.streams.get_by_itag('18')
 
 
 print("downloading video .....")
-#d_stream.download()                          # by defult this saves video in the directory where this code is saved,  to change it simply put the path inside download('put path here')
+d_stream.download()                          # by defult this saves video in the directory where this code is saved,  to change it simply put the path inside download('put path here')
 print("video is downloaded")
 
 
